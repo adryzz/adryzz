@@ -5,10 +5,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adryzz" alt="adryzz" /></a> </p> 
 - 🔭 I’m currently working on **stuff** 
 - 🌱 I’m currently learning **React** 
-- 👨‍💻 All of my projects are available at [https://github.com/adryzz](https://github.com/adryzz) 
-- 📝 I regulary write articles on [how i'm dumb](how i'm dumb) 
-- 📫 How to reach me **Adryzz#7264 on Discord** 
-- 📄 Know about my experiences [i am good trust me](i am good trust me) 
+- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/adryzz) 
+- 📝 I regulary write articles on [how i'm dumb](https://adryzz.thedev.id/) 
+- 📫 How to reach me ** Adryzz#7264 on Discord ** 
+- 📄 Know about my experiences [i am good trust me](https://adryzz.thedev.id/) 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adryzz6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adryzz6" height="30" width="40" /></a>
