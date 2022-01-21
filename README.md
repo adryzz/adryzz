@@ -1,2 +1,2 @@
 ### hello there!
-A hobbyist programmer who does literally anything that goes through my mind.
+A hobbyist 17yo circle clicker who loves learning, tinkering with computers and electronics.
